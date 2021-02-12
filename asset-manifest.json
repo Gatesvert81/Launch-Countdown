@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Launch-Countdown/static/css/main.b28b334d.chunk.css",
+    "main.js": "/Launch-Countdown/static/js/main.491740d9.chunk.js",
+    "main.js.map": "/Launch-Countdown/static/js/main.491740d9.chunk.js.map",
+    "runtime-main.js": "/Launch-Countdown/static/js/runtime-main.166936ad.js",
+    "runtime-main.js.map": "/Launch-Countdown/static/js/runtime-main.166936ad.js.map",
+    "static/js/2.53de3aa0.chunk.js": "/Launch-Countdown/static/js/2.53de3aa0.chunk.js",
+    "static/js/2.53de3aa0.chunk.js.map": "/Launch-Countdown/static/js/2.53de3aa0.chunk.js.map",
+    "static/js/3.14084924.chunk.js": "/Launch-Countdown/static/js/3.14084924.chunk.js",
+    "static/js/3.14084924.chunk.js.map": "/Launch-Countdown/static/js/3.14084924.chunk.js.map",
+    "index.html": "/Launch-Countdown/index.html",
+    "static/css/main.b28b334d.chunk.css.map": "/Launch-Countdown/static/css/main.b28b334d.chunk.css.map",
+    "static/js/2.53de3aa0.chunk.js.LICENSE.txt": "/Launch-Countdown/static/js/2.53de3aa0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Launch-Countdown/static/media/bg-stars.166881a1.svg",
+    "static/media/icon-facebook.a9208377.svg": "/Launch-Countdown/static/media/icon-facebook.a9208377.svg",
+    "static/media/icon-instagram.b94ff26a.svg": "/Launch-Countdown/static/media/icon-instagram.b94ff26a.svg",
+    "static/media/icon-pinterest.ea0db8e7.svg": "/Launch-Countdown/static/media/icon-pinterest.ea0db8e7.svg",
+    "static/media/Footer.css": "/Launch-Countdown/static/media/pattern-hills.815d688f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.166936ad.js",
+    "static/js/2.53de3aa0.chunk.js",
+    "static/css/main.b28b334d.chunk.css",
+    "static/js/main.491740d9.chunk.js"
+  ]
+}
