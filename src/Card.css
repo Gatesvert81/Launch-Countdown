@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@400;500&display=swap');
+
+.card{
+    border: 1px hidden;
+    width: 16vw;
+    font-family: Red Hat Text;
+    margin-bottom: 20vh;
+}
+
+.card-time{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px hidden;
+    font-size: 10vw;
+    font-weight: 500;
+    height: 16vw;
+    cursor: pointer;
+    background: linear-gradient( rgba(68, 40, 68, 0.534) , rgba(93, 24, 133, 0.562) );
+    color: hsl(345, 60%, 50%);
+    border-radius: 1vw;
+    box-shadow: 0 1vh 0px rgba(0, 0, 0, 0.253);
+}
+
+.card-time > span {
+    transition: 0.5s;
+}
+
+.card-text {
+    text-align: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-size: 1.5vw;
+    letter-spacing: 0.6vw;
+    font-weight: 500;
+    margin-top: 3vh;
+    color: hsl(237, 18%, 59%);
+    transition: 0.5s;
+}
+
+.card:hover > .card-time > span , .card:hover .card-text {
+    transform: scale(1.2);
+}
+
+@media all and (min-width: 600px) {
+    .card{
+        width: 12vw;
+    }
+
+    .card-time{
+        height: 12vw;
+        font-size: 8vw;
+    }
+
+    .card-text{
+        font-size: 0.8vw;
+        letter-spacing: 0.5vw;
+    }
+}
